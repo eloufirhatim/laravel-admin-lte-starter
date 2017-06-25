@@ -1,5 +1,5 @@
 # laravel-admin-lte-starter
-AdminLTE starter project for laravel 5.4.*
+AdminLTE v2.3.8  starter project for laravel 5.4.*
 
 ![Laravel AdminLTE Starter page](https://lh3.googleusercontent.com/-lUokPP-SuYY/WU_BwWtLCxI/AAAAAAAACTQ/UlSSl-djqYAeL5w6PD7fGRM0tHtqP8B6gCLcBGAs/s0/t%25C3%25A9l%25C3%25A9chargement.png "admin-lte-starter-page.png")
 
